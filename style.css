@@ -5,11 +5,12 @@ margin:0px;
 
 }
 
+
 header {
-border-bottom: solid 2px rgba(241, 202, 129, 0.767)
-padding: 20px;
-font-size: 32px;
-color:white
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
 
 section {
