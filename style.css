@@ -14,8 +14,8 @@ color:rgb(199, 226, 45)
 section {
 
 background: rgb(198, 47, 218);
-padding-bottom: 200px;
-padding-top: 100px;
+padding-bottom: 80px;
+padding-top: 80px;
 display: flex;
 justify-content: center;
 }
