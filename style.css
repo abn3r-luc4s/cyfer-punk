@@ -1,19 +1,19 @@
 body {
-color:wheat;
+color:rgb(255, 255, 255);
 background:black;
 margin:0px;
 
 }
 header {
 
-border-bottom: solid 2px rgb(221, 219, 70);
+border-bottom: solid 2px white
 padding: 20px;
 font-size: 32px;
-color:rgb(199, 226, 45)
+color:white
 }
 section {
 
-background: rgb(198, 47, 218);
+background: rgb(227, 80, 247, 0.808);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
