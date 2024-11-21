@@ -4,29 +4,28 @@ background:black;
 margin:0px;
 
 }
-header {
 
+header {
 border-bottom: solid 2px white
 padding: 20px;
 font-size: 32px;
 color:white
 }
-section {
 
+section {
 background: rgb(227, 80, 247, 0.808);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
 justify-content: center;
 }
-div{
 
+div{
 margin-right: 20xp;
 
 }
 
 .chamada-texto{
-
 margin: 20px;
 
 }
