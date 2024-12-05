@@ -32,3 +32,8 @@ display: flex;
 overflow: auto;
  gap: 10xp;
 }
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
